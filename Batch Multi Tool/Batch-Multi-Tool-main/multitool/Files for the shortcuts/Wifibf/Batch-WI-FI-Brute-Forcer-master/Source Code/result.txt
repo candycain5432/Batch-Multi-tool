@@ -1,0 +1,5 @@
+Batch Wi-Fi Brute Forcer Result
+Target     : CenturyLink8476-EXT
+At attempt : 6
+Password   : dde43fe686cvva
+
